@@ -1,4 +1,4 @@
-package com.example.sampledatastorage
+package com.example.sampledatastore
 
 import org.junit.Test
 
